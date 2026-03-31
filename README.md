@@ -79,7 +79,7 @@ const vinit = {
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🏥 [**PocketHealth**](https://github.com/Sanklecha-Vinit/pockethealth) | Personal wellness tracker with JWT auth, REST API & 5 health modules | PHP · MySQL · JS · JWT |
-| 🛍️ [**StatPro**](https://github.com/Sanklecha-Vinit/stationary-project) | B2B stationery web app with dynamic filtering, dark/light theme | HTML · CSS · JS |
+| 🛍️ [**StatPro**](https://github.com/Sanklecha-Vinit/stationary-project) — [🌐 Live](https://sanklecha-vinit.github.io/stationary-project/) | B2B stationery web app with dynamic filtering, dark/light theme | HTML · CSS · JS |
 | 💰 **SmartBudget** | Full-stack personal finance manager with analytics dashboard | Python · MySQL · JS |
 | ✈️ **Trip Planner** | AI-assisted itinerary generator with Dijkstra route optimization | Python · JS · Algorithms |
 | 🦺 **IoT Highway Safety** | Real-time vehicle speed monitoring & alert system | IoT · Sensors · Wireless |
